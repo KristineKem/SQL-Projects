@@ -1,6 +1,6 @@
 # 🎬 SQL Movies
 
-SQL quaries + TypeScpipt
+SQL queries + TypeScpipt
 
 Exercise goal is to create a valid database structure and store data about the movies.
 
